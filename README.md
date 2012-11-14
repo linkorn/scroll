@@ -22,6 +22,7 @@ Usage
     	</div>
 
 __initialize__
+
 	var scrollContainer = new LnkScroll({
 		el:this.$("div.scroll-container"),
 		onScroll:function(x,y){
